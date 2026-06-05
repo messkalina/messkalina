@@ -27,10 +27,7 @@ I'm a designer and builder who believes the best digital products are created at
 
 ## 💻 Featured Projects
 
-- **[F24-Berlin-Web-Circle](https://github.com/messkalina/F24-Berlin-Web-Circle)** – Web development project
-- **[Online-Portfolio](https://github.com/messkalina/Online-Portfolio)** – TypeScript portfolio showcasing design work
-- **[React-Portfolio](https://github.com/messkalina/react-portfolio)** – Simple yet elegant portfolio template built with React
-- **[Minesweeper](https://github.com/messkalina/minesweeper)** – Classic game reimagined in React
+- **[F24-Berlin-Web-Circle](https://github.com/messkalina/F24-Berlin-Web-Circle)** – Functional copy of Air B'n'b website - group project from Web Development course at Redi School of Digital Intergration
 
 ---
 
@@ -46,16 +43,15 @@ I'm a designer and builder who believes the best digital products are created at
 **Front-End Development:**
 - React.js
 - JavaScript (ES6+)
-- TypeScript
 - HTML & CSS
 - Responsive Design
 - Animation & Interaction Design
 
 **Tools:**
 - Figma
-- Framer
-- Git & GitHub
-- Modern Web Development Stack
+- Stitch
+- Claude Code
+- Adobe After Effects, Premiere, Photoshop, Illustrator
 
 ---
 
