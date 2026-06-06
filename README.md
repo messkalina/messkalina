@@ -1,30 +1,13 @@
-# 👋 Hi, I'm Kalina Iwaszko
+# 👋 Hi, I'm Kalina
 
 **UX/UI & Motion Designer | Builder**
 
-I'm passionate about creating beautiful, intuitive digital experiences that blend aesthetic design with functional code. I specialize in **UX/UI design**, **motion design**, and **front-end development**, with a deep appreciation for clean design systems and thoughtful interactions.
+I'm passionate about creating beautiful, intuitive digital experiences. I specialize in **UX/UI design** & **motion design**, and also have solid working knowledge of frontend (HTML, CSS, React) and vibe coding skills.
+I bring experience from fast-paced startups, where I’ve worked across the entire design process: from research and ideation to testing and validation.
 
 ---
 
-## 🎨 About Me
-
-I'm a designer and builder who believes the best digital products are created at the intersection of great design and solid code. My work focuses on:
-
-- **UX/UI Design** – Creating thoughtful, user-centric interfaces
-- **Motion Design** – Crafting delightful, purposeful animations and interactions
-- **Front-End Development** – Building responsive, accessible web experiences
-- **Design Systems** – Designing cohesive, scalable frameworks
-- **React & Modern Web Technologies** – Bringing designs to life with clean, maintainable code
-
----
-
-## 💻 Featured Projects
-
-- **[F24-Berlin-Web-Circle](https://github.com/messkalina/F24-Berlin-Web-Circle)** – Functional copy of Air B'n'b website - group project from Web Development course at Redi School of Digital Intergration
-
----
-
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Design:**
 - UX/UI Design
@@ -45,6 +28,12 @@ I'm a designer and builder who believes the best digital products are created at
 - Stitch
 - Claude Code
 - Adobe After Effects, Premiere, Photoshop, Illustrator
+
+---
+
+## 💻 Featured Projects
+
+- **[F24-Berlin-Web-Circle](https://github.com/messkalina/F24-Berlin-Web-Circle)** – Functional copy of Air B'n'b website - group project from Web Development course at Redi School of Digital Intergration
 
 ---
 
