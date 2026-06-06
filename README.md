@@ -18,13 +18,6 @@ I'm a designer and builder who believes the best digital products are created at
 
 ---
 
-## 🔗 Let's Connect
-
-- **Portfolio:** [digital-at-heart.com](https://digital-at-heart.com/)
-- **LinkedIn:** [linkedin.com/in/kalina-iwaszko](http://www.linkedin.com/in/kalina-iwaszko)
-
----
-
 ## 💻 Featured Projects
 
 - **[F24-Berlin-Web-Circle](https://github.com/messkalina/F24-Berlin-Web-Circle)** – Functional copy of Air B'n'b website - group project from Web Development course at Redi School of Digital Intergration
@@ -55,16 +48,9 @@ I'm a designer and builder who believes the best digital products are created at
 
 ---
 
-## 📚 Currently Learning & Teaching
+## 🔗 Portfolio:
 
-I'm committed to continuous learning and love sharing knowledge through teaching and mentorship. I've worked with communities like **ReDi School** helping others master web technologies.
-
----
-
-## ✨ Let's Create Something Amazing Together
-
-I'm always interested in collaborating on projects that solve real problems and create delightful user experiences. Feel free to reach out!
+[digital-at-heart.com](https://digital-at-heart.com/)
 
 ---
 
-*Designed with ❤️ and built with code*
